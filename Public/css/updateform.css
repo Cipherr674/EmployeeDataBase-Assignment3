@@ -1,0 +1,36 @@
+
+
+.container {
+    min-height: calc(100vh - 56px); 
+}
+
+.lform {
+    width: 45%;
+}
+
+.form1{
+    border: 2px solid white;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.button1 {
+    width: 100%;
+}
+
+
+.navbar{
+    background: linear-gradient(to right, #141e30, #243b55);
+    border-bottom: 2px solid white; 
+    border-radius: 2px; 
+  }
+
+  .navbar a:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+  body{
+    background: linear-gradient(to right, #141e30, #243b55);  
+
+  }
